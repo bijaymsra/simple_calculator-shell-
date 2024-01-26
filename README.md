@@ -1,1 +1,3 @@
 # simple_calculator_shell
+# Author Bijay
+This is simple calculator made using shell scripting, in this i have used functions, user input values and different modules for calculaton, also there is a case statement for the user desired operation to be performed...
